@@ -1,0 +1,9 @@
+[{
+        "ParameterKey": "Name",
+        "ParameterValue": "UdacityProjectAstom"
+    },
+    {
+        "ParameterKey": "AMIImage",
+        "ParameterValue": "ami-061dbd1209944525c"
+    }
+]
